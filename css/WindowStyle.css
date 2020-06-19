@@ -1,0 +1,32 @@
+.Window
+{
+	background: white;
+}
+.Title
+{
+	background: transparent;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 50px;
+	color: darkslategray;
+}
+.Instructions
+{
+	background: transparent;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	color: darkslategray;
+}
+.StartButton
+{
+	background: orange;
+	color: white;
+	font-size: 15px;
+	border-radius: 5px;
+	box-shadow: none;
+	border: none;
+	transition: background 0.4s;
+}
+.StartButton:hover
+{
+	background: rgb(204, 112, 0);
+}

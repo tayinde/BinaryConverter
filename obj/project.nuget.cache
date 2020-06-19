@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "2SXzqmR2YnleaupMPE0QJCsgjNtpHnI2cRaVP4hhLvMzQi/d9fUqCPZpV2Hcq5+RevWSDjK4+96jsHFLlhEj/A==",
+  "success": true,
+  "projectFilePath": "/home/tobi/Codes/C#/BinaryConverter/BinaryConverter.csproj",
+  "expectedPackageFiles": [
+    "/home/tobi/.nuget/packages/atksharp/3.22.25.98/atksharp.3.22.25.98.nupkg.sha512",
+    "/home/tobi/.nuget/packages/cairosharp/3.22.25.98/cairosharp.3.22.25.98.nupkg.sha512",
+    "/home/tobi/.nuget/packages/gdksharp/3.22.25.98/gdksharp.3.22.25.98.nupkg.sha512",
+    "/home/tobi/.nuget/packages/giosharp/3.22.25.98/giosharp.3.22.25.98.nupkg.sha512",
+    "/home/tobi/.nuget/packages/glibsharp/3.22.25.98/glibsharp.3.22.25.98.nupkg.sha512",
+    "/home/tobi/.nuget/packages/gtksharp/3.22.25.98/gtksharp.3.22.25.98.nupkg.sha512",
+    "/home/tobi/.nuget/packages/pangosharp/3.22.25.98/pangosharp.3.22.25.98.nupkg.sha512",
+    "/home/tobi/.nuget/packages/microsoft.netcore.app.ref/3.0.0/microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "/home/tobi/.nuget/packages/microsoft.aspnetcore.app.ref/3.0.1/microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "/home/tobi/.nuget/packages/microsoft.netcore.app.host.linux-x64/3.0.3/microsoft.netcore.app.host.linux-x64.3.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

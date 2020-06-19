@@ -1,0 +1,78 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/ta334/Codes/C#/BinaryConverter/BinaryConverter.csproj": {}
+  },
+  "projects": {
+    "/home/ta334/Codes/C#/BinaryConverter/BinaryConverter.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ta334/Codes/C#/BinaryConverter/BinaryConverter.csproj",
+        "projectName": "BinaryConverter",
+        "projectPath": "/home/ta334/Codes/C#/BinaryConverter/BinaryConverter.csproj",
+        "packagesPath": "/root/.nuget/packages/",
+        "outputPath": "/home/ta334/Codes/C#/BinaryConverter/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/root/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "GtkSharp": {
+              "target": "Package",
+              "version": "[3.22.25.*, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[3.0.3, 3.0.3]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.103/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
