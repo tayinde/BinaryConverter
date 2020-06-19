@@ -132,7 +132,7 @@ namespace BinaryConverter
         {
             ClearPage();
             WindowTitle.Text = "Binary Converter";
-            Instructions.Text = "Convert binary characters to English, or inversely convert English characters to binary.";
+            Instructions.Text = "Convert binary characters to English, or inversely convert English characters to binary. The result of the conversion will be copied to your clipboard.";
             WindowTitle.Show();
             Instructions.Show();
             ConvertToText.Show();
