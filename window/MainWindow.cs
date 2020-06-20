@@ -96,7 +96,7 @@ namespace BinaryConverter
             Instructions.Text = "Insert the binary that you want to be converted to text.";
             Instructions.Show();
         }
-		private void StartBinary(object sender, EventArgs a)
+        private void StartBinary(object sender, EventArgs a)
 		{
 			ClearPage();
             ToBinary();
