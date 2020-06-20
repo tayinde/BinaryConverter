@@ -10,10 +10,10 @@ namespace BinaryConverter
         {
             Application.Init();
 
-            var app = new Application("org.BinaryConverter.BinaryConverter", GLib.ApplicationFlags.None);
+            Application app = new Application("org.BinaryConverter.BinaryConverter", GLib.ApplicationFlags.None);
             app.Register(GLib.Cancellable.Current);
 
-            var win = new MainWindow();
+            Window win = new MainWindow();
             app.AddWindow(win);
 
             win.Show();
