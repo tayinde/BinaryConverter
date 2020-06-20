@@ -7,10 +7,10 @@ namespace Converting
         
         public string Convert(string input)
         {
-            StringBuilder sb = new StringBuilder();
+            StringBuilder BinaryBuilder = new StringBuilder();
             foreach (char c in input.ToCharArray())
-                sb.Append(System.Convert.ToString(c, 2).PadLeft(8, '0'));
-            return sb.ToString();
+                BinaryBuilder.Append(System.Convert.ToString(c, 2).PadLeft(8, '0'));
+            return BinaryBuilder.ToString();
         }
     }
 }
